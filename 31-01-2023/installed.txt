@@ -1,0 +1,5 @@
+com.markskelton.one-dark-theme
+com.intellij.marketplace
+com.vermouthx.idea
+com.chrisrm.idea.MaterialThemeUI
+com.mallowigi
